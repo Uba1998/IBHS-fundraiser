@@ -1,0 +1,5 @@
+IBHS-Fundraiser
+│
+├── index.html
+├── qr-code.png
+└── school-logo.png (optional)
